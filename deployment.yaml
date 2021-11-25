@@ -51,7 +51,7 @@ metadata:
     allow.http: "false"
 spec:
   rules:
-  - host: wildfly.nascimento-devops.com
+  - host: wildfly.rancher.nascimento-devops.com
     http:
       paths:
         - path: /
